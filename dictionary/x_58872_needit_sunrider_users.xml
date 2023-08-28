@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8003141647703110c0565d58c26d4339" label="Sunrider Users" max_length="40" name="x_58872_needit_sunrider_users" type="collection">
+        <element label="id" max_length="40" name="id" type="integer"/>
+        <element label="User name" max_length="40" name="user_name" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="EMails:" max_length="1024" name="u_glide_list_2" type="glide_list"/>
+    </element>
+</database>

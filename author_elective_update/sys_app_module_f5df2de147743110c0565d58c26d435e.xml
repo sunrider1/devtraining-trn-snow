@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="sunrider_test2">31df2de147743110c0565d58c26d435c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>sunrider_test2s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_sunrider_test2</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.sunrider_test2_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 15:03:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f5df2de147743110c0565d58c26d435e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sunrider_test2s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_f5df2de147743110c0565d58c26d435e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 15:03:09</sys_updated_on>
+        <timeline_page/>
+        <title>sunrider_test2s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3de7f0b2dbf8e3007d8cf22ebf961929</instance_id>
+        <instance_name>dev71656</instance_name>
+        <name>sys_app_module_f5df2de147743110c0565d58c26d435e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="sunrider_test2">31df2de147743110c0565d58c26d435c</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>sunrider_test2s</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_58872_needit_sunrider_test2</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.sunrider_test2_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 15:03:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f5df2de147743110c0565d58c26d435e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sunrider_test2s</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_f5df2de147743110c0565d58c26d435e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 15:03:09</sys_updated_on><timeline_page/><title>sunrider_test2s</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>62488675</payload_hash>
+        <record_name>sunrider_test2s</record_name>
+        <reverted_from/>
+        <source>1b9195b347903110c0565d58c26d436c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 15:03:09</sys_created_on>
+        <sys_id>b5df2de147743110c0565d58c26d4360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a189f055c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 15:03:09</sys_updated_on>
+        <type>Module</type>
+        <update_guid>fddf2de127743110fd1a8e6c7049505f</update_guid>
+        <update_guid_history>fddf2de127743110fd1a8e6c7049505f:62488675</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="sunrider_test2s">752dbd6147b43110c0565d58c26d43d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 16:01:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>0b927869e6a24f8b83b95bca7bbfa941</sys_id>
+        <sys_metadata>f5df2de147743110c0565d58c26d435e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sunrider_test2s</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_f5df2de147743110c0565d58c26d435e</sys_update_name>
+        <sys_update_version display_value="sys_app_module_f5df2de147743110c0565d58c26d435e">b5df2de147743110c0565d58c26d4360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 16:01:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

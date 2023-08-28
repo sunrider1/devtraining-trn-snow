@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7cd6981a47703110c0565d58c26d43e7" extends="sys_import_set_row" label="sunrider_user1" max_length="40" name="x_58872_needit_sunrider_user1" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=name" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=user_id" label="user_id" max_length="40" name="u_user_id" type="integer"/>
+    </element>
+</database>

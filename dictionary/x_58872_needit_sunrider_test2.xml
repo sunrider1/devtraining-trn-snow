@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="hasLabels=true" db_object_id="8f7f296147743110c0565d58c26d4392" label="sunrider_test2" max_length="40" name="x_58872_needit_sunrider_test2" type="collection">
+        <element choice="1" label="id" max_length="40" name="id" type="integer">
+            <choice/>
+        </element>
+        <element label="name" max_length="255" name="name" type="string_full_utf8"/>
+    </element>
+</database>

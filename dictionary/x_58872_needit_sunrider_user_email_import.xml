@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ddf0989247703110c0565d58c26d4388" extends="sys_import_set_row" label="sunrider_user_email_import" max_length="40" name="x_58872_needit_sunrider_user_email_import" type="collection">
+        <element attributes="import_attribute_name=user_id" label="user_id" max_length="40" name="u_user_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user_mail" label="user_mail" max_length="40" name="u_user_mail" type="string"/>
+    </element>
+</database>
